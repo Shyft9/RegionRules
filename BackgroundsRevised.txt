@@ -1,3 +1,5 @@
+Backgrounds Revised
+
 A 'background' is a narrative construct- a container that is comprised of a history, location and list of Assets. It is intended to describe how a character came into the possession of or authority over something within the greater backdrop of Creation.
 
 This need not be an exhaustive chronicle of past deeds, but it does have mechanical relevance- most if not all Assets have geographical or socio-economic limits- they simply are not able to reach to every corner of Creation. This means a character is encouraged to develop lots of Backgrounds in multiple regions, or to build up the range and influence of her core holdings so that she can leverage them abroad.
@@ -9,4 +11,6 @@ If an Asset does fit any of the listed examples describing it's mechanics, it in
 Assets are also used to populate Locales, describing their capabilities and functions. A locale with [Resources] can generate wealth or raw materials, for example.
 
 Assets within locales can be controlled by characters or courts. They act as adminstrators of it's functions, development and so on. This generates Authority, the strategic resource that all regional-scale actions cost. Courts who hold Assets are inclined to firstly spend their Authority to secure their own interests, and then grant that authority to other characters as part of favor trading, commerce, fealty and more. In practice, the storyteller does not need to fastidiously track all Authority spending. Only important storyteller characters take the bold decisive action needed to grow and change Assets with Authority, allowing for game tone and campaign challenge.
+
+
 

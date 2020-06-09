@@ -1,0 +1,2 @@
+An Asset is a trait with a rating of 1-5 or 1-10. They are located or connnected to Locales within a given Region, and used to define the functions and capabilites acquired via Backgrounds. 
+

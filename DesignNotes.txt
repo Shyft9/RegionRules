@@ -1,0 +1,13 @@
+Scaling 'map' system
+- tracks regional movement
+- regional infrastructure
+- political influences
+
+- Solars
+-- Best at generating Authority, improving Assets
+- Lunars
+- Sidereals
+- Dragonblooded
+
+- Abyssals
+- Infernals
