@@ -1,0 +1,12 @@
+Artifacts and Manses
+
+You might be wondering where the entries for these are in context of assets- they don't exist. Instead, the significance of an Artifact or Manse is essentially a Background unto itself.
+
+This immediately means that if a starting Solar, for example, wants an Artifact or Manse, they must either dedicate their given Major Background to it and it alone, or purchase a new Minor Background to describe how they acquired it.
+
+Artifacts and Manses can allocate their dots to any published or custom Asset that makes sense, such as a sword that grants soverenty to the bearer, or a manse that produces bumpercrops of produce for a whole region. Independent of those Assets, is the Potency Trait. Potency is essentially the 'classic' artifact dot-rating, roughly sketching in it's power level and utility. It is also a deliberate abstraction, primarily suited for character creation or incidental Artifacts that are important enough to detail, but do not have complex writeups.
+
+As mentioned Prior, Minor, Major and Legendary Backgrounds have limitations on how high a trait can be rated without buying additional dots. A Minor Artifact Background (5 dots), means you can have at most a Potency-3 Artifact with 2 dots divided among other assets related to it's Background. A Grand Daiklave (Potency 3), with Reputation 2 (Used in the battle of Marit Lage), for example.
+
+Manses are similar, except that instead of a potency trait, they must have a Demense Asset in addition to Potency. Most Manses taken at character creation are not custom bespoke palaces, but quirky left-overs of prior eras or more recent developments to tap some local resource. When it matters, [Demense + Potency] is used by the storyteller to calculate a manse's budget for powers and other qualities, when not using a Working or Project to build one from the ground up.
+
