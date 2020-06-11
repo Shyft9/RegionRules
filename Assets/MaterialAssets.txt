@@ -1,0 +1,1 @@
+Material Assets are associated with actual physical locations, extractable resources, manpower and the like. If it moves or can be moved, or can be visited as a specific location, it's a Material Asset.

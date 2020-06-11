@@ -12,5 +12,36 @@ Assets are also used to populate Locales, describing their capabilities and func
 
 Assets within locales can be controlled by characters or courts. They act as adminstrators of it's functions, development and so on. This generates Authority, the strategic resource that all regional-scale actions cost. Courts who hold Assets are inclined to firstly spend their Authority to secure their own interests, and then grant that authority to other characters as part of favor trading, commerce, fealty and more. In practice, the storyteller does not need to fastidiously track all Authority spending. Only important storyteller characters take the bold decisive action needed to grow and change Assets with Authority, allowing for game tone and campaign challenge.
 
+=== Backgrounds in Character Creation ===
 
+When creating a character, depending on their Exaltation or the variables of a campaign, they have at least one Background before spending any bonus points. Backgrounds come with a dot allowance for purchasing assets that comprise it. Backgrounds cost an number of bonus points* equal to their budget- so a second Minor Background costs 5bp. Additional Asset dots can be purchased for 1bp or 2bp as desired.
 
+Minor Backgrounds have a budget of 5 dots, and no Asset can be rated higher than 3 before Bonus Points.
+
+Major Backgrounds have a budget of 7 dots, and no asset can be rated higher than 4 before Bonus Points. The 4th and 5th asset rating cost 2 dots each.
+
+Legendary Backgrounds have a budget of 11 dots, and any Asset within can reach 5 dots without spending bonus points. The 4th and 5th asset rating cost 2 dots each.
+
+Solars under default character creation have a single Major Background, usually focused around their lives and achievements prior to or concurrent with Exaltation.
+
+Dynastic Dragonblooded have two Minor Backgrounds and one Major, reflecting their school history, career training, and house backing. These are suggestions for a 'standard' Dynast, but players are encouraged to mix up their Backgrounds and customize their characters.
+
+Lunars have one Minor Background and one Legendary Background. This usually is to reflect the relationship that character has with other Lunars- a mentor or enclave. Alternatively it represents the Lunar's ability to be an established presence in Creation, far more secure in their holdings than a newly Exalted Solar.
+
+Sidereals have a choice of three Minor Backgrounds, or one Major and one Legendary. This is meant to reflect the tumultous political alliances and favor-trading that the Vizers engage in. A Sidereal with three Minor Backgrounds might be a useful but low positioned agent in numerous bureaus, or a handsomely connected operative based in Creation. A Major/Legendary Sidereal is likely a mid-rank supervisor to a large planning committie, or a talented master fatecrafter or martial artist.
+
+*Bonus Points a placeholder phrase.
+
+=== Example Backgrounds ===
+
+Threshold Vineyard (Minor)
+
+A House V'neef holding in the eastern threshold, this estate is located a few hundred miles south of Lookshy. Good soil conditions for grapes and other wine cultures made it a handsome plot for an interpeneural V'neef to claim and cultivate. A generation later, that investment is paying dividends.
+
+As a background, Threshold Vineyard describes a location (the vineyard itself), and the following assets:
+
+Resources 3: The vineyard generates Capital 3 of fine wines every fiscal season. The actual wines take a year or more to mature however.
+Reputation 1*: 
+Labor 3(-2): The vineyard maintains a working force of [tbd] mortals. They are occupied three seasons out of the year planting, harvesting and bottling wine, leaving them
+
+*Placeholder Asset

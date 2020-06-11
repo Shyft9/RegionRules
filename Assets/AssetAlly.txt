@@ -1,0 +1,20 @@
+Asset - Ally
+
+An ally is a powerful character who through bonds of loyalty, friendship or other positive associations, is willing to aide your character and be aided in return.
+
+A character can have any number of Ally assets, usually attached to a Background that describes how they met and became acquianted if not friends. The dot-rating describes the potency of that Ally as described below.
+
+X - You have no allies to speak of outside of your Circle (which you do not need to buy as Assets).
+* - You have a one-dot ally; a modestly powerful Spirit-blooded or minor god, or a meaningfully powerful mortal in a high position such as a local Guild Factor, or a courtier in the local ruling class.
+** - You have a two-dot ally; This is the minimum rating to acquire a Dragonblooded Ally; usually an Outcaste.
+*** - A three-dot ally represents a starting celestial Exalted, including a Solar. A decently powerful Celestial God, Raksha Prince or Second Circle Demon are also Three-dot Allies. In the latter cases, their ability to act directly is greatly reduced, but they have access to additional Assets and innate powers that a creation-bound Exalt only reaches with time and effort.
+**** - a 4-dot ally represents a great persona, such as a bureau head in the halls of Heaven, a powerful if less well known Third Circle Demon, or an experienced Sidereal advisor.
+***** - a 5-dot ally are the ancient powers and institutions of Creation; The Five Maidens, Luna, The Unconqured Sun; Chejop Kejak, Ma-Ha Suchi, Ligier or Amalion.
+
+Allies in Practice: 
+
+By default, an Ally implicitly comes with a built in, broadly applicable Favor- they are definitionally going to join you if you ask them to, as long as you don't abuse that trust and respond in kind. An Ally can be invoked once per season, either for a scene's worth of effort like support in a combat encounter, or a season's worth of strategic actions. Storytellers and players are encouraged to reason out the best use of an Ally's time while not overcomplicating matters. If an ally is exceptionally good at trade, they can buy or sell goods faster or more effectively as appropriate.
+
+As mentioned above, the more esoteric an Ally, the less directly they can be involved in the ongoing campaign. Having Ally 5 [Ligier] is entirely legal, but the Green Sun cannot just up and appear when asked. Players and storytellers are encouraged to treat such allies as almost Backgrounds unto themselves, allowing the player to access ally-themed Assets as appropriate to the campaign. Ally [Ligier] means access to the assasin cults of Sondok, for example. In longer running or higher power campaigns, it's perfectly reasonable to transmute an Ally Asset into a Minor, Major or even Legendary Background all on it's own.
+
+More importantly, when a character has an Ally asset, it is assumed that this is mirrored towards that Ally as well. Other Assets reflect single-direction loyalties. The storyteller is allowed to have an Ally ask a favor of the player character, which can be addressed either personally or delegated somehow. Blowing off these requests is an easy and surprisingly quick way to lose an Ally!

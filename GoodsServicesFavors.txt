@@ -1,0 +1,31 @@
+Concept: Goods and Services
+
+In Exalted, most economic feats are described in terms of Goods and Services. A good is a product, be it a physical craft, a work of knowledge like music or text, or something that is best modeled as commodity. Services are essentially Time plus Skill, which equals some form of output or result.
+
+Services are by tradition, measured in Seasons, so when a mechanic describes a character offering their services, be it as a bodyguard, a rank employee, or a valet, they are usually assumed to be acting on a season-to-season basis before additional loyalties or more nuanced arrangements. Storytellers are encouraged to adjust the cost of a Service by how much time or effort is actually required.
+
+Services also include incidental or one-time expenditures, such as seeking an audience with a king and evading their busy schedule. 
+
+Concept: Service Value
+
+Like  product, such as yeddim milk or find jadesteel, services and the characters who provide them have a cost which can be rendered as a dot-rating. This rating is 'mostly' objective, assuming the baseline of 2nd age Creation, but can fluctuate based on the needs of the campaign or other factors.
+
+At the baseline, a character can be expected to be worth [Attribute or Ability] in an appropriate Asset- usually Capital, Favors, or other social or economic backgrounds. (Paying someone in armies, manses or artifacts is systemically possible, but highly unlikely). So a master swordsman with Melee 4 is on paper, worth [Capital 4]. A handsome exotic pet like a tiger may be Appearance 5, and thus worth [Capital 5] on the open market. Assesment actions that determine value return that as a result.
+
+In practice, very few characters offer their services for their actual value. They either undersell themselves, happy to have any work at all or to undercut competition, or oversell themselves via overconfidence in their skills, or intending to earn a handsome profit on less savvy employers. In the case of two or more characters competing for the same job, prospective employers may compare their subject's [Attribute + Ability + Specialty]. It's common practice for many service providers to give demonstrations and practice in view of potential investors to further enhance their chances.
+
+Concept: Magnitude
+
+Concept: Service Magnitude
+
+Efforts on the regional or strategic scale in Exalted are modeled with Magnitude, and firmly siloed as to avoid overcomplicating the game with tracking things like crop yields for a standing population and similar. When an Asset or action seeks to benefit a Magnitude target, such as a military unit, political court or economic force, it must provide an equivilent magnitude. 
+
+For example, if a king wants to equip their army made of six Magnitude 3 units, they need a forge and smith that can create [Magnitude 3] worth of arms and armor per season. Individuals, outside of specific heroic undertakings, generally do not work on Magnitude scales.
+
+
+
+New Asset: Favor
+
+A Favor, rated 1-5, is equivilent to any Good or Service of equal or lesser rating. Favors can also be traded for temporary access to other Assets, such as political influence, military support, a line of credit and more.
+
+

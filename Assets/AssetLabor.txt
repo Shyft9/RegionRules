@@ -1,0 +1,14 @@
+Asset - Labor
+
+The Labor asset describes unskilled manpower; physical labor, basic craftsmanship and so on. Each dot in the Labor asset equals one dot of unit magnitude, and can be committed for one season at a time.
+
+Labor assets can be occupied with asset-actions, which can lower their overall cost. Reduce the final dot cost of an Asset for every Season it can't work, to a minimum of 1. Therefore a 5-dot asset, which on paper would be thousands of extras, would only cost a single dot, if it was availible for a single season out of the year. Drawing from committed labor such as this can inflict penalties or severe consequences, so kings who leverage this asset are careful to leave enough workers to til the fields and harvest the crops.
+
+Labor makes for poor soldiers or skilled craftsmen, however. Individual characters drawn from a Labor Asset are almost always Mortal Extras, and very rarely have dice pools higher than 4d. 
+
+X - Your Background has no free labor associated with it- they're either all too busy with their own lives and jobs.
+* - You have a small pool of labor to draw upon all year round. A cottage industry, small farm or the crew of a river boat.
+** - You have a modest amount of labor availible to you all year round. A smith in a small village, a medium farm, or a caravan moving goods and services between settlements.
+*** - 
+**** - 
+***** - The efforts of an entire town's unskilled workers can move at your command. 
