@@ -1,0 +1,12 @@
+Asset - Workshop (REVISE FORMULAS)
+
+A Workshop is a facility usually focused around a specific Ability, Specialty, or Dramatic Action. This is deliberately broad, as it is meant to encompass a range of installations such as training fields, smiths, bakeries and temples.
+
+The workshop asset is highly flexible and contextual, relying on a fair degree of player and storyteller arbitration. The ratings below are provided as an example for a craft-focused workshop, which is the most common case. 
+
+X - You don't have access to a workshop, just basic tools. (What to do here?)
+* - A rudimentary workshop - Craft Actions capped at 6d
+** - A basic workshop - Craft Actions capped at 9d
+*** - A Master's Workshop - Craft Actions capped at 13d
+**** - Craft Actions capped at 20d
+***** - An Ideal Workshop, equipped with First Age Tools and magical devices. Craft Actions capped at 30d.

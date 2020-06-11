@@ -1,0 +1,35 @@
+Capital - Overview
+
+Capital is money- it is buying power and currency and economic power. Capital is also technically speaking, not an Asset. Instead, other Assets can be used to generate Capital. The particulars of this are almost a sub-system unto themselves, so for the sake of easy reference, a summary is provided here alongside the Asset descriptions. The general rule is that any Asset can be committed on a seasonal basis to generate Capital, equal to [Rating]. So a Rating 3 Asset can earn a character Capital 3, and they get five returns on investment or pay-outs per year. Transitory Assets such as Favors can also be used to secure Capital, but rarely on a permanent or enduring basis. Capital can also be spent as if it were Favors, but does not regenerate if the character is out of range of their credit lines or otherwise can't make up the expense.
+
+Capital is an exponential measure of both liquid assets, and overal economic power of a region or locale, rated 1-10. Every ten instances of a lower Capital rating can be combined into a single instance of a higher one, and vice-versa. This means a character with Capital 1 can purchase ten individual items of Capital X. If drawn from an appropriate asset, this Capital can be spent or banked every Season. A humble smith with a capital 2 business for example may be able to save 5x Capital 1 per season; every 2 seasons, they will have saved a new instance of Capital 2. Ten seasons of such savings can elevate the smith's savings to Capital 3, and so on.
+
+It is however, important to note that Capital does nothing on it's own- it is purely passive, acquired through other Assets. It is only spent when a character needs or wants to. Also note that Capital can be earned independently of an Asset, such as a character simply giving currency to someone else. That being said, it may be easier to track such gifts as conditional Favors that only last until spent.
+
+---
+
+Capital is roughly divided into two brackets, with Capital 1-5 being the general limit of 'personal' wealth, and 6-10 being the wealth of polities or heroic individuals. There is some overlap however. Most personal purchases such as weapons, armor, riding animals and services all exist within the Capital 0-4 range, or some cases, cost 2x or 3x+ Capital Cost.
+
+X - You have no capital income and are effectively living hand to mouth. Various incidental goods and services cost Capital X, such as a tavern meal, a rough-hewn shirt or a dull knife. 
+
+1 - You live at the local poverty line, able to sustain just yourself and not that well. You work hard to save money where you can, supplementing your livelihood with hunting, odd jobs and so on.
+ 
+2 - If you live alone, you are comfortable and eat well every day; you can afford to hire employees for chores, or save your income for future purchases. If you have a family, they eat good but uninspired food but enjoy meats and sweetbreads on feast days and events. 
+
+3 - You can afford to spend your money on modest hobbies, keeping a rare pet, or a supporting large immediate or extended family. You can afford to live in a nice apartment or a small house, and can easily pay for staff or skilled services such as an accountant or majordomo.
+
+4 - Wealthy heirs, savvy businessmen; You can afford to hire skilled individuals to undertake daring or dangerous tasks on your behalf, or with a bit of saving, commission great works, trade caravans and sailing enterprises.
+
+5 - The personal allowance of a king or merchant prince. 
+
+6 - Regional Wealth and economy - A number of Locales pool their Capital together or create interconnected industries to produce such value. Kings and lords aspire to this lofty height, as it is the tipping point in which they can effectively purchase anything they might want or need from the brackets beneath them without breaking the bank. Large expenditures such as miliatry campaigns however are still too expensive to undertake without a decent financial cushion- or willingness to go into debt.
+
+7 - 
+
+8 - A number of Great Houses bring in wealth of this level, but it is often in motion, rarely landing in coffers and vaults for very long. Medium-sized city-states. 
+
+9 - The current economic output of the modern Realm, focused primarily on the geographical Blessed Isle. The various satrapies contribute no small amount of extra Capital. Nations and city-states such as Nexus, Chiaroscuro and the like are also economic peers at this level.
+
+10 - The combined economic power of the Shogunate, at the height of it's glory prior to the Balorian Crusade and Great Contagion. No extant polity or economy generates a similar amount of output per season, though entities like the Realm can concievably save up to reach this value over decades if not centuries of careful investment.
+
+The High First Age existed on an economical base that this system will not model as a single entity- suffice to say that a handful of individuals were by various means producing Capital 8+, in addition to there being numerous polities that were all Capital 9-10 each.

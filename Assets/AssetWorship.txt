@@ -1,0 +1,34 @@
+Asset - Worship (Inprog)
+
+Creation is thick with spirits, great and minor powers, and divinely blessed heroes worthy of adulation and more. 
+
+The traditional 'cult' is best described as a Background using the Worship Asset.
+
+The two primary benificiares of Worship are Exalted and Spirits. This entry assumes the player character is an Exalted. Spirits gain different benefits from organized worship.
+
+The exact form of this worship varies- the Asset itself reflects the potential for metaphysically potent devotion, not the actual organized ritual or culture surrounding it. 
+
+Clever players cannot expect to use Labor or other 'mass unit' Assets to generate Worship- characters sourced from those backgrounds are already praying to a host of incidental powers as part of their daily routines. If a player wants specific control over who or what their followers pray to, they must use the Worship Asset. So a unit of holy warriors would be Command X and Worship X.
+
+Worship is also highly localized- a character can benefit from it nearly anywhere in Creation and even beyond, but the actual physical location of worshippers is firmly connected to the Background, Region or even specific Locale. As such, if a character wants to spread worship of a specific being or group (including themselves), they must raise that belief by word or deed. The ratings below determine how much time and effort worshippers dedicate to their 
+
+X - You have no worshippers praising you, seeking your intervention or begging that you leave them be.
+* - You are invoked as a divine aspect or agent of another power, or have a minor domain associated with you such as honor duels, crop planting or courtship.
+** - 
+*** - You now stand with other local gods as a spiritual peer, a figure of personal miracles and storied deeds. Most cults in the Second Age stop here, as the communities that host them cannot support a more specialized spirtiual economy.
+**** - You are the primary spiritual focus of an entire local culture. Career worshippers who have no job other than praying to your glory, supported by priests and other organizations around them. The Realm watches out for devotion of this level, sending interrogators and infiltrators in equal measure.
+***** - Fantastically devout; spiritual zealots, ascetic monks and dedicated priests follow your word and deed. Workplaces are sanctified in your name, prayers are made to you before meals and harvests, and you are sought out to bless the newborn and the dead in equal measure. The Realm is certain of your existence as a dread Anathema, having warped the population around your nightmarish glory.
+
+Design Note: What do you do with Prayer?
+
+At the moment, Worship doesn't do anything directly- it will, it should. The original 2e interpretation was a fairly prosaic 'More Motes/More WP' effort. Expect a replacement to that mechanic at some point.
+
+An important point that is currently unstated, is that Worship is fairly fungible, a 5-dot Worship Asset to a Solar's glory can be 'pivoted' to worship another being fairily easily, on a temporary basis. Prayer itself doesn't take that much time- so the same person can pray to lots of different spirits, so long as they put in meaningful effort.
+
+So temporarily redirecting Worship is a good way of turning a spirit into an Ally or similar. This is essentially how the Immaculate Calendar works- each god is given a day or time of day and the whole of the faith prays to them. If a given region is developed enough, it is more than possible to found new cults to a spirit for more lasting arrangements.
+
+Worship is much more useful in context of Anchored Sorcery, as well as various forms of Artifice. 
+
+Design Note: Sacrifices and Priests
+
+todo -

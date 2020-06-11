@@ -1,7 +1,15 @@
 Asset - Favor
 
-Favors are a particular form of transaction throughout Creation. A noble asks an academy admissions head to add their child to the incoming roster one year, and that academy then asks a favor in return.
+Favors come in two forms, Minor and Major. In both cases, Favors are primarily locked into the Background or Region they are associated with. Without clever stunting or circumstancial factors, Favors can only be called in within the scope of their source. A character who has Favors 3 with a local court can only ask for things that court can reasonably provide.
 
-Favors represent a character's connectedness in a different way than having an ear in multiple courts or ranks of spies waiting on their orders.  
+Minor favors cost 1 dot, and represent a scene's worth of effort, the same amount in Service, or some other reasonably simple action taken on behalf of the asker. Skipping ahead to meet an official, access to first pick of the day at a grocer, and the hundreds of other little efficiencies that make civilized life possible. You may note these examples sound like potential benfeits of bribery and corruption- that is intentional, as minor favors can be secured with Capital or similar.
 
-A Favor is essentially any other Asset, asked for and loaned more or less at the character's word. 
+Major Favors are seasonal commitments and requests. The character asks for a Service or Asset to be provided, and assuming it is availible and the request does not threaten the holder's interests, it is granted more or less at the character's request. Major Favors cost [Desired-Rating] dots per season. Dots spent on Major or Minor Favors regenerate in full at the end of each Season.
+
+Favors, unlike other forms of interchangable Assets, cannot grant access to Assets past one season- if a character asks for access to a workshop, they only get it for one season. If they wish to continue to use it, they must convince the holder to allow them access, spend their favors again, or attempt to somehow hold the asset by force or guile. The latter example is a quick way to lose Favors with a given Background or Region, but there is no explicit rule against stealing Favors either.
+
+The inverse of a Favor is a Debt, which is an 'asset' insofar as it is a Trait associated wtih a Background or Locale. Debts only apply when the debtor is in the same Background, or otherwise in range of their creditor. Debts use the same basic structure as a Favor, where dots are spent on minor or major services, boons and Assets. Unlike Favors however, debts only regenerate if the creditor has not called in the full rating worth of support in a single season. Thus a character with Debt 4 can be called in for 3 minor favors, and they will be remain 'in debt'.
+
+This persistent Debt mechanic exists because it is generally assumed that a character will want to maintain power and authority over another as long as reasonably possible. Honorable creditors (Temperance 3+) will usually allow their debtors to pay off their debts without much issue.
+
+This is a deliberate abstraction, because this is not meant to represent financial or economic debt (though it can). Debt is meant to describe the kind of transactional power a character has over another. Most creditors have a comparitively short range of influence, meaning that a debtor can simply flee the creditor and refuse to pay, at the small cost of not coming back for seasons if not years. 

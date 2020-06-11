@@ -1,0 +1,14 @@
+Asset - Reagent
+
+A Regaent is any raw material or harvestable product from a primarily magical source. The most consistent way to get Reagents are from uncapped demenses, but they can be sourced from nearly any other Background with a bit of work.
+
+By default, Reagents can be acquired from this asset at a rate of at once per season, and last as long without preservation techniques. They are commonly used in thaumaturgy, sorcery, artifice, and a host of other disciplines beyond the scope of this entry. While detailed elsewhere, the rating of a Reagent describes how magically resonant it is, and it's usefulness. Reagents are a consistent source of Materials for Project system bonuses, and other mechanics.
+
+Reagents are coveted by those who practice great works of magic and industry, and as such, they are often controlled through political, economic or military authority, and provide similar. Most Backgrounds and Locales don't generate higher than Reagent 3 without concerted effort, so such troves and supplies are guarded carefully when they appear.
+
+X - You have not encountered any Reagents in your history, nor do you have ready access to any.
+* - 
+** - 
+*** - 
+**** - 
+***** - 
