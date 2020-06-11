@@ -1,0 +1,15 @@
+Assets and Sorcery
+
+Sorcery is powerful, a perspective-changing undertaking that allows the sorcerer to shape the very fabric of reality around them, work great feats of pure Essence, and a host of other things besides. Sorcery is an incredible force multiplier.
+
+With that in mind, Assets which grant convenient and meaningful access to Sorcery without the controlling character being a Sorcerer themselves (such as having an Allied Sorcerer), costs an additional [Circle] dots. Favors and Services have an innate value of [Circle] before haggling, in addition to anything else the Sorcerer feels like asking as part of their price.
+
+So a 2-dot Ally (A Dragonblooded), who is also a Emerald Circle Sorcerer, would infact be Ally 3. A Lunar Sorcerer who has mastered the Sapphire Circle would be Ally (3+2) 5. Truly powerful beings, such as learned Second Circles, high level Celestial gods and the like may be Sorcerers without incuring this extra cost. The reason for that is most of those Allies can't show up at the most convenient times or places- they work through intermediaries and their own Assets. In the event that a sorcerer-demon becomes readily accessible (such as an Infernals game set primairly in Hell), the 'sorcerer cost' may be applied as appropriate- but Storytellers should generally not need to worry about it.
+
+An important consideration though, is that this applies to player characters who are sorcerers as well. Only the most ignorant hedge-sages and self-taught practitioners neglect to understand their own value. A Sorcerer of the Emerald Circle is worth at least 3 dots of Services, Capital, Favors or whatever background they find the most alluring. Being the 'court sorcerer' of a local kingdom or mercantile interest is often how many sorcerers pay for the fine things they enjoy in life.
+
+=== Design Note ===
+
+This entry is written assuming a player is not using any other particular homebrew solution for Sorcery, for good or ill. It is however written with knowledge of the Anchors and Aspects system used in other games of Exalted. In brief under that system, Sorcery is an extension of institutional power, where a character commmits backgrounds to enable great works of magic or enchantment. Spells are cheaper, and purchased with the assumption that they are connected to a class of background such as Artifact or Backing, and are influenced by the choice of Anchor and Essence aspect.
+
+As such, Assets replace Backgrounds for the purposes of commited costs, but otherwise function identically. 
