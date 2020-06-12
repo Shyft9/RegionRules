@@ -1,0 +1,20 @@
+Allies - Draft 1
+Artifact - Deprecated
+Backing - Undrafted
+Contacts - Undrafted
+Cult - Deprecated by Worship
+Familiar - Undrafted
+Favor - Draft 1
+Labor - Draft 1
+Influence - Undrafted
+Manse - Deprecated
+Mentor - Undrafted
+Reagent - Draft 1
+Workshop - Draft 1
+Worship - Draft 1
+
+Retainers - [Rating x3] Mortal advisors, aides, courtiers and specialists; suitable deputies for regional and project actions. Has 3 competencies rated at 9d, 7d and 5d respectively, with all other pools capped at 4d, which are chosen at time of acquisition. Can serve as special characters in mass units.
+
+Host - [Rating] minor supernatural characters such as strong spirit-blooded, fae warriors, war ghosts, or divine functionaries. 10d/8d/6d competencies with a +3 bonus from a relevant Excellency. Hosts often have one or two Charms unique to their spiritual lineage. Like retainers, they can also be deputies for regional and project actions, or special characters in mass units.
+
+Cultivation - This asset represents access to knowledge of thaumaturgical techniques, rare disciplines or exotic Supernatural Martial Arts. Cultivation 1-3 = thaum, 4 = TMA, 5 = CMA.
