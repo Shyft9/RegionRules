@@ -1,0 +1,3 @@
+A Background is essentially a broadly written history of how a character came into posession or control over a number of assets, as well as their specific locations in Creation. It is essentially those three axiomatic elements: How you got it, where it is, and what Assets does it grant you?
+
+You may notice some similarity with the hypothtical Region rules- this is deliberate. When a player or Storyteller describes a Background, they are implicitly describing a Locale if not a Region that Background exists within. Locales are often 'Backgrounds to be', containing a history, a physical location, and whatever Assets are contained within those descriptions. 
