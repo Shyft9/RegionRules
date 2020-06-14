@@ -1,0 +1,16 @@
+Asset - Arsenal
+
+This asset represents a character or locale's ability to provision a fighting unit. This is the military equivilent of the Supply Asset. 
+
+Arsenal can be used in two ways- it can represent the availible arms and armor to a unit yet to be mustered, or the equipment of a standing force (a Command Asset). In either case, the dot-rating reflects the quality of the equipment.
+
+Note that this asset is a deliberate abstraction, and it's phrasing is fairly open-ended. Players are not intended to load their forces down with itemized lists of gear drawn from every sourcebook. As a general rule, a unit has a primary weapon, a secondary weapon, armor, and a kit of basic tools.
+
+X - Your forces have only what they bring with them and what they can improvize on the field. For some this is normal, for most professional soldiers, marching off to battle without weapon or panoply is a mark of doom.
+* - You may equip your unit with appropriate gear that costs no more than Capital 1 per item.
+** - You may equip your unit wtih appropiate gear that costs no more than Capital 2 per item.
+*** - You may equip your unit with Capital 3 gear; this includes mundane mounts such as horses.
+**** - You may equip your unit with Capital 4 gear, including exotic mounts and alchemical medicines. This is the limit of Arsenal for most polities in Creation, able to field one such unit if at all. 
+***** - Your unit is among the best equipped in the region, wearing jadesteel panoply with the finest blades of mundane craftsmanship. Only the Realm, Lookshy and a handful of the most rich nation-states maintain a unit so lavishly equipped, let alone several. 
+
+Storytellers are encouraged to adjust the cost and permissiveness of equipment based on context; the Marukan lords raise enough trained horses that the cost of a decent riding animal is only Capital 2. The riding hawks of Metagalapa or far eastern tribes would be Capital 4 in most of Creation, but only Capital 3 in their native lands. 

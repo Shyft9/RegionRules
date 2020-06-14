@@ -1,0 +1,20 @@
+Asset - Command
+
+The Command asset represents a standing combat unit such as a house guard or garrison. It also can represent potential for one- a militia that can be mustered with reasonable speed. In either case, the Asset provides a number of Extras or Heroic Mortals. Each instance of the Command Asset represent a single unit, which can be divided up as the player likes without breaking the Asset itself apart.
+
+X - You have no standing force or easily raised militia; how do you defend your interests or project power on others?
+* - You have a single unit of a thousand extras; rudimentary infantry
+** - You have a single unit of 500 green soldiers; basic infantry
+*** - you have a single unit of 250 trained soldiers; or half that in heavy infantry, cavalry or archers
+**** - You have a single unit of 75 seasoned soldiers; sappers, medics, engineers
+***** - You have a single unit of 25 veteran soldiers; infiltrators, saboteurs, [something else?]
+
+Design note: Each dot-rating is modular under the assumption that the 'basic' option is for the biggest block of simplest infantry at a given skill level. The further 'right' you move down each rating, the more specialized they get. So a 3-dot Command can be 250 soldiers, or half that in heavy infantry, cavalry or archers. May adjust this later.
+
+Command in Practice -
+
+The Command Asset is meant to be separate from Labor or other mass-workforce assets, in that it represents a focused and specific unit organized around some form of combat or military tradition. The details can vary and be important or merely aesthetic. As a general rule, if a locale has a Command Asset, any extras or heroic characters who are part of it are assumed to not impact any labor or logistical demands their home locale might have.
+
+Supernatural Command -
+
+The above Command Asset reflects a primarily mortal army, which is the most common one players will face in the course of play. Forces made of supernatural soldiers or combatants use different mechanics detailed elsewhere.

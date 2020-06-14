@@ -1,0 +1,35 @@
+Example Backgrounds
+
+Under this revised system, several concepts from earlier editions have been deprecated or shifted around into other forms. This entry is not exhaustive, but the four major changes are Backing, Artifact, Manse and Demense. All four of those concepts are best modeled not as an individual rating, but as a Background comprised of multiple Assets.
+
+These examples are provided to give an idea of how to format a Background- focusing primarily on the history, location and Assets that comprise it.
+
+=== An Ally (Minor Background) ===
+
+King of White Sands, Limitless Horizon has a minor background describing her relationship with the Dragonblooded Sorcerer Mivi Khal. They met shortly after Horizon Exalted as a Solar of the Dawn, and quickly developed a strong if quirky working relationship- Horizon offered Mivi room and board on her sandship and a cut of any ship profits, in exchange for Mivi's standing services as a sorcerer in the field. Together they sail the southern sandsea.
+
+Ally 3 (2+1 = Dragonblooded Sorcerer) - Mivi is a competent Air Aspect, and knows several useful spells for sand-sailors in the region such as Calling the Wind's Kiss.
+Favor 2 - In addition to the standing relationship as an Ally, Horizon treads Mivi well and has a standing two-dot favor she can call in each season.
+
+=== A Business (Major Background) ===
+
+Iron Silk Sky, when not playing bouncer, runs a prosperous speakeasy in Chiaroscuro. She worked there before she Exalted, and quietly took over from the aging owner as she learned the ins and outs of her Exaltation.
+
+Resources 3 - Sky's establishment turns a handsome profit, generating Capital 3 per season after expenses.
+Mentor 2 - The speakeasy's original owner retired gracefully, but still keeps a hand in to show Sky the ropes and share the wisdom of a life well lived.
+Labor 1 - Sky makes more than enough to hire a decent amount of staff to serve drinks and wait tables.
+Reagent 1 - The Speakeasy has a particular distillation process that creates a fine drinking alcohol that has mildly potent thaumaturgical properities. As such, it is in demand as both a luxury good and magical substance.
+
+=== A Kingdom (Legendary Background) ===
+
+Final Aegis discovered that he was the heir to a northern kingdom, and after a whirlwhind transfer of power, he found himself flush with a number of Assets focused around his immediate court and it's intrigues.
+
+Ally 3 - A young Lunar Exalt by name of Shadow Follows Kings struck up an odd friendship with Final Aegis; while the Lunar has no interest in kingship or civilities, she is a fantastic strong-arm and loyal friend.
+Influence 4 - As a legitimate heir to the kingdom's succession, Aegis enjoys no small amount of personal power derived from his lineage. This, in addition to the various Assets he controls over several Locales, ensures he can rule effectively. Wisely is yet to be seen.
+Retainers 2 - Not picked by choice, Aegis's retainers are all young women of marrying age, all positioned as to be likely candidtates for providing an heir. Since his ascension to head of state, Aegis has secured their loyalty beyond that of their political agenda- he no longer fears intrigue and knives in the dark, but his court finds no small amount of amusement teasing him over his interesting circumstances.
+Resources 2 - A paltry sum for a king, Final Aegis draws a modest stipend as head of state taken primarily from local taxes after all other expenses. If he wants more money under his own authority, he would have to either take it from somewhere else, or improve his kingdom...
+
+=== Artifacts and Location ===
+
+You might notice a trend, in that most if not all other Backgrounds ask for a 'location'. Artifacts, usually being a tool or weapon carried by a character, move with her. They still however have a location that matters for their history. When describing an Artifact, their location has two major elements- where the character acquired it, and where it is known, if it is known at all. 
+
